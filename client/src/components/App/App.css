@@ -1,0 +1,36 @@
+.centr{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.app{
+  width: 400px;
+  height: 150px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  text-align: center;
+}
+.plus{
+  margin-right: 10px;
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+}
+.minus{
+  background-color: red;
+  padding: 10px;
+  border-radius: 10px;
+}
+.addCounter{
+  margin-right: 10px;
+  background-color: rgba(44, 86, 202, 0.986);
+  padding: 10px;
+  border-radius: 10px;
+}
+.delCounter{
+  margin-left: 10px;
+  background-color: rgba(165, 44, 202, 0.904);
+  padding: 10px;
+  border-radius: 10px;
+}
